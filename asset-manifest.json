@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/konlyzx-social/static/css/main.0398c769.css",
-    "main.js": "/konlyzx-social/static/js/main.53bd1cdf.js",
+    "main.js": "/konlyzx-social/static/js/main.9853a09f.js",
     "static/js/488.bc4cfe20.chunk.js": "/konlyzx-social/static/js/488.bc4cfe20.chunk.js",
+    "static/media/cr7.gif": "/konlyzx-social/static/media/cr7.4586919c7b460ffeffea.gif",
     "index.html": "/konlyzx-social/index.html",
     "main.0398c769.css.map": "/konlyzx-social/static/css/main.0398c769.css.map",
-    "main.53bd1cdf.js.map": "/konlyzx-social/static/js/main.53bd1cdf.js.map",
+    "main.9853a09f.js.map": "/konlyzx-social/static/js/main.9853a09f.js.map",
     "488.bc4cfe20.chunk.js.map": "/konlyzx-social/static/js/488.bc4cfe20.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0398c769.css",
-    "static/js/main.53bd1cdf.js"
+    "static/js/main.9853a09f.js"
   ]
 }
