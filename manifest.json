@@ -1,25 +1,25 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Konlyzx",
+  "name": "Konlyzx - Plataforma social y de recompensas",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "https://yt3.ggpht.com/ze_nIK1ulrsegdmKlVYjFSNDlx2wFTDBP_hha9feZSw8h9smB99n4WqmVp3qUGNFnOxwQPZz=s108-c-k-c0x00ffffff-no-rj",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "https://yt3.ggpht.com/ze_nIK1ulrsegdmKlVYjFSNDlx2wFTDBP_hha9feZSw8h9smB99n4WqmVp3qUGNFnOxwQPZz=s108-c-k-c0x00ffffff-no-rj",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "https://yt3.ggpht.com/ze_nIK1ulrsegdmKlVYjFSNDlx2wFTDBP_hha9feZSw8h9smB99n4WqmVp3qUGNFnOxwQPZz=s108-c-k-c0x00ffffff-no-rj",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "https://yt3.ggpht.com/ze_nIK1ulrsegdmKlVYjFSNDlx2wFTDBP_hha9feZSw8h9smB99n4WqmVp3qUGNFnOxwQPZz=s108-c-k-c0x00ffffff-no-rj",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#9147ff",
+  "background_color": "#1a1a2e"
 }
